@@ -21,4 +21,8 @@ export const TRUSTED_PACKAGE_KEYS: Record<string, string> = {
 MCowBQYDK2VwAyEABdweEuJAfYG923RkmZLYsmonLvCcgVtgpJ7mngbRJQk=
 -----END PUBLIC KEY-----
 `,
+  'nexai-prod-2026': `-----BEGIN PUBLIC KEY-----
+MCowBQYDK2VwAyEAHf+iD52Uf/fGmrAmI8GbSRLRP2vmf+z4eUxiHLKy6fo=
+-----END PUBLIC KEY-----
+`,
 }
